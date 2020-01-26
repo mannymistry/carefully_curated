@@ -4,3 +4,10 @@ https://www.condocontrolcentral.com/feature/surveys/
 
 #Machine Learning Portfolios with Equal Risk Contributions
 https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3432760
+
+# Google Cloud/Maps #
+
+Machine Learning Portfolios with Equal Risk Contributions
+
+# How to organize a wedding with R: google place API, google drive, web scraping and automatic emails
+https://damien-datasci-blog.netlify.com/post/how-to-organise-a-wedding-with-r-google-search-api-google-drive-web-scraping-and-automatic-emails/
